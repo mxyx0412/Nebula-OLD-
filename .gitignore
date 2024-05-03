@@ -34,8 +34,8 @@ bld/
 [Ll]ogs/
 Nebula/obj/
 Nebula/bin/
-CPUAffinityEditor/obj/
-CPUAffinityEditor/bin/
+/CPUAffinityEditor/obj/
+/CPUAffinityEditor/bin/
 
 # Visual Studio 2015/2017 cache/options directory
 .vs/
